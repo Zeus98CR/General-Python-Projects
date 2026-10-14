@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+Mini-Project-Data Processor (AI Assistant).py
